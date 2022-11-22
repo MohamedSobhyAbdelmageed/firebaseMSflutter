@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833241507507",
+    "project_id": "fluttermsflash",
+    "storage_bucket": "fluttermsflash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833241507507:android:b97e74ab3f85e85fb0f2c6",
+        "android_client_info": {
+          "package_name": "com.firebasemsflutter.firebasemsflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833241507507-u5a5o52sfoiegm38tr76r9uk30dp2rf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzmb9mT2HKk_iqIYstvMQaY9KYEaCZuDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833241507507-u5a5o52sfoiegm38tr76r9uk30dp2rf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
